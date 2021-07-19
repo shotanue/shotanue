@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+A developer.
+
+- [twitter](https://twitter.com/shotanue)
+- [blog](https://shotanue.dev/)
+
 <!--
 **shotanue/shotanue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
