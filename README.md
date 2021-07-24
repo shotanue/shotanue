@@ -4,6 +4,7 @@ I'm a developer.
 
 - [twitter](https://twitter.com/shotanue)
 - [blog](https://shotanue.dev/)
+- [lapras profile](https://lapras.com/public/DNXXSLC)
 
 
 ## tech
