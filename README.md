@@ -3,7 +3,7 @@
 I'm a developer.
 
 - [twitter](https://twitter.com/shotanue)
-- [blog](https://shotanue.dev/)
+- [blog](https://shotanue.hatenablog.com/)
 - [lapras profile](https://lapras.com/public/DNXXSLC)
 
 
