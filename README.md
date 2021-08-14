@@ -9,7 +9,7 @@ I'm a developer.
 
 ## tech
 ### languages
-PHP, TypeScript, JavaScript, Rust(interest)
+PHP, TypeScript, JavaScript
 
 ### frameworks, libraries(backend)
 
