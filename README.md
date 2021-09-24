@@ -16,7 +16,7 @@ PHP, TypeScript, JavaScript
 BEAR.Sunday(PHP), Phalcon(PHP)
 
 ### frameworks, libraries(frontend)
-Vue(2-3), XState, Ant-design, Nuxt, JQuery
+Vue(2-3), XState, Ant-design, Nuxt, jQuery
 
 #### other
 MySQL, Redis, Docker
