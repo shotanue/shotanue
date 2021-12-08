@@ -10,17 +10,20 @@ I'm a developer.
 
 ## tech
 ### languages
-PHP, TypeScript, JavaScript
+TypeScript, PHP
 
-### frameworks, libraries(backend)
+### backend
 
 BEAR.Sunday(PHP), Phalcon(PHP)
 
-### frameworks, libraries(frontend)
-Vue(2-3), XState, Ant-design, Nuxt, jQuery
-
-#### other
 MySQL, Redis, Docker
+
+### frontend
+Vue(2-3), Nuxt, jQuery
+
+XState, Ant-design
+
+
 
 
 
