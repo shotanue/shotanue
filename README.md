@@ -5,7 +5,7 @@ I'm a software developer.
 - [twitter](https://twitter.com/shotanue)
 - [hatenablog](https://shotanue.hatenablog.com/)
 - [Qiita](https://qiita.com/shotanue)
-- [Zenn](https://zenn.dev/shotanue)
+
 
 
 ## tech
