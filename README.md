@@ -14,7 +14,7 @@ TypeScript, PHP
 
 ### backend
 
-BEAR.Sunday(PHP), Phalcon(PHP)
+BEAR.Sunday(PHP)
 
 MySQL, Redis, Docker
 
