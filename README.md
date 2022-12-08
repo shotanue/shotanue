@@ -2,9 +2,7 @@
 
 I'm a software developer.
 
-- [twitter](https://twitter.com/shotanue)
-- [hatenablog](https://shotanue.hatenablog.com/)
-- [Qiita](https://qiita.com/shotanue)
+- [shotanue.dev](https://shotanue.dev)
 
 
 
